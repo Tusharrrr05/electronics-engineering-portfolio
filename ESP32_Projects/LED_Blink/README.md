@@ -1,28 +1,14 @@
-ESP32 LED Blink
+# ESP32 LED Blink
 
-Objective
+## Objective
+Blink the onboard LED of ESP32.
 
-Blink an LED using the ESP32 microcontroller.
-
-Components Used
-
+## Components
 - ESP32
 - LED
-- Connecting Wires
 
-Working
-
-The ESP32 turns the LED ON for 1 second and then OFF for 1 second continuously, creating a blinking effect.
-
-Files Included
-
-- led_blink.ino - Source code
-- circuit.png - Circuit diagram
-
-Wokwi Simulation
-
+# Wokwi Simulation
 https://wokwi.com/projects/467011487017121793
 
-Status
-
+## Status
 Completed
