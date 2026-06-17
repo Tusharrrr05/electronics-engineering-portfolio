@@ -30,9 +30,8 @@ This repository contains basic ESP32 sensor interfacing and GPIO projects develo
 - Jumper Wires
 
 ## Software & Tools
-- Arduino IDE
 - Wokwi Simulator
-- Git
+- Cirkit designer
 - GitHub
 
 ## Learning Objectives
